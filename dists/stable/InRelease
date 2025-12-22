@@ -1,36 +1,43 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Mon, 22 Dec 2025 16:30:50 +0000
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 22 Dec 2025 16:49:12 +0000
+Description: Airvantage APT repository for av-coi
+Label: Airvantage
+Origin: Airvantage
+Suite: stable
 MD5Sum:
- 35addb175824758ea3e4ab16e9a03ca1               38 Release
+ 2c29b7f9cbaaea408a0d698f4e99e846              194 Release
  0537d71667c75f7c9e8581e530add780              554 main/binary-amd64/Packages
  b29d012d1136aed897d95385c99233b5              415 main/binary-amd64/Packages.gz
 SHA1:
- bee225052e70f63f4274891063d1aae14910bf98               38 Release
+ 727ba253ec13df9f9c61d56242d62b32d50a7140              194 Release
  c758e8c2d230c794513a53ded27c2fa273252f3e              554 main/binary-amd64/Packages
  9744b4dab2a3816ca93686c5b190b4b3a4268e7d              415 main/binary-amd64/Packages.gz
 SHA256:
- e1870d83251aa3be34d60540a32eff38125964665b9013fc3cb44dd4644a9c94               38 Release
+ f20896cab66fc981eff5c4a4ca1cb02bb945c039425108bd130e9cb96fffae7c              194 Release
  496aea1d26d2551dad54b7f32a4430562a1ba466e64a6aed8b3dd866d0556036              554 main/binary-amd64/Packages
  0ba04b996ba1ff74e3153a45a1c13127746253cac71cfd7d666b4e317f1b42cf              415 main/binary-amd64/Packages.gz
 SHA512:
- b9813fd2c355f25e6bfa00c7bf9190f11ea0c32692d494f1140549d501f9b679fcdac9e9c0e194ceb1590ecb5bda9dd7db63dac1fb5daf59f3e240bdd76b70b8               38 Release
+ e97de2256a6e833549365a1e96b55f28b9688aed2cba86df1c91ef2f28437acbfd667698472bb009f603faea4edc66a6538f598f7a480121e4369c983d432958              194 Release
  a8fab5172ddc2459683ef554c2e47578f1cad8530eb0b7d70a98227bc85c46914a03a8a70de86fcf0cf5803abc2b74b181bd37e1fb4da53a2f53b1d7115f8712              554 main/binary-amd64/Packages
  d756bc5228fef29af0c946651c4a9c1fe2b5a77abaed9b6dfdbf51a80db64b60f188ffff70dcf92b7001fb9fc0c2bfc56366c06523d90d238a1e3bd3f293b407              415 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEECKNtyL1dFY8tYErxw7MhGTeQkbcFAmlJcp4ACgkQw7MhGTeQ
-kbe6WxAAmG+oddnfP0sg+nrG2G7oVL5MSy02J91+qgwDiEyiTmi6aJSTOSn6M+mO
-dJhzgMwMNTFar5oZCrdcdGN4F+sriKYuS94f+swrELQI+5lxSvND0Kad6dTbof26
-9DYJ7BqW9YkWOtkBzAJAKmwljZ6K0JWP41N7+heKLRUf4hXuOzTNUtMFBZYbYqaQ
-Esq5uuAAlGVL80wLzAvRHvPDadP6JSJpTqqkJPmijc/FMGKNZ+Tl/rHTYV6dnqnK
-QI67iocJTOUZqH6dODqHTq+S8ZSD4lMmxJqHTwREH6t+UjaPNTGKM7uVsyHh4ehu
-niD2es4YwWGvCQ6NKZsCq2/0xK96fFj0JF3r5H5KagS8wJXzyaUtjbYQr/Okzs6H
-f7z3gCYOxSNyGI0zGlG4wGgET0czbwcF/mPEb9WKAdbSXL0dR3bX1k5aI1zBSHr5
-LXwQz/vIJ7gVxF8gTiM+uCa47xS5VDLJXSxG8Xyzm+v4iJh+0b15M36a7d0I1L7r
-MDuk7hJ+NUl2ZHwQaWOjSrfeCcfE637jhxpsPs6Iz2Giw4vkJd8huw3v43NfC+bh
-w+CnntSrpIGLxFZMZBEpCSeh0kA7TLUJ6RoQ6tPACDBC3s8fVPvLOJ2CK83awA+P
-RKb91y7ktXq5rHD3mRNFFmxoSqAc/3MOuTgH5PZy5JFuxjcqgPA=
-=oS/V
+iQIzBAEBCgAdFiEECKNtyL1dFY8tYErxw7MhGTeQkbcFAmlJdpkACgkQw7MhGTeQ
+kbe3aw//aWkYT5vHSu2GmloA0tL+GJXYl2DRLjRfRL2lFa9pRDZfRINeVazdgk0A
+QLOsNX4vIbU9X+NSrQMvqa931+GTo+IWTWevhT7UL3kSrNSMLrFJwCcif3IvnMlh
+D2Z+tni8rkvm8pTvBF3cy5/dQthIFnDhLNFHfdjo4eNEwShRf8R+a7wC8UcItTTE
+DCEV73PD/AIXp8tU0xEdBqi+GIcdgkaTT6u1S1IVViVrbrMFpNtAT2PvyTPXgfYM
+zV+WPkLUDR5bTyPOv1cTOmn3aATpoWpA/SDtTgiEoZ1r4XURFqoDS+1AfWIulvGN
+YETkRk0hR4tbHX6301O0r5iU5OMqhGpqTWb6DxfQSp33Kw3K/T9b0o/ItQmaiitq
+HF2E5FqGAGDlMBnGhv7zb2ljmZgCZTaGn1WSj5661quJtMAC8NxbpJLcp9pt+5nC
+dmf89LGe9bR3W8yM+s96xA8eiQKz3SeqB5CnlIYH5mfOvVNHOQWXbi8C6U24CyWS
+RKv5yr61GF/QY6t/TtR0REcEz0pNFN/EPhLvKdvtQwl8eDslCzKNv703KcBVBmeQ
+FuFTonlblZQ0UYmcyrUw/Zxxwx4ItUmKVXCoMMNHJe/iU8va/XvlDDdzEkB4+YvO
+6670DFBdYRVhGR0VWxpy2Yv/A3pGrGkDzpCz9aLwiFwTuMctQHg=
+=ZyDh
 -----END PGP SIGNATURE-----
