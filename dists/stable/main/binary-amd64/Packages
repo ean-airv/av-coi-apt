@@ -1,0 +1,15 @@
+Package: av-coi
+Version: 1.0
+Architecture: all
+Maintainer: Airvantage <support@airvantage.co.za>
+Depends: bash, openfortivpn, zenity, iproute2, iputils-ping, network-manager
+Filename: pool/main/a/av-coi.deb
+Size: 2684
+MD5sum: c8013e3ddc681faf66e8337bf745c069
+SHA1: 500d314604b8f165112e48f59e9f620b262b02cd
+SHA256: 69bc2b9734773be99b22e2fdcaec26a77f620dfe396e889c27fe6b4a25890fda
+Section: net
+Priority: optional
+Description: Interactive FortiVPN client with user autostart setup
+ Provides an interactive VPN client with OTP prompt and desktop autostart.
+
