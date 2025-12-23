@@ -4,40 +4,40 @@ Hash: SHA512
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Mon, 22 Dec 2025 16:49:12 +0000
+Date: Tue, 23 Dec 2025 11:19:52 +0000
 Description: Airvantage APT repository for av-coi
 Label: Airvantage
 Origin: Airvantage
 Suite: stable
 MD5Sum:
- 2c29b7f9cbaaea408a0d698f4e99e846              194 Release
- 0537d71667c75f7c9e8581e530add780              554 main/binary-amd64/Packages
+ 37ffdf400c4e2f68e922605e3f4e922f              194 Release
+ 42b75b4bd5c3feaad043dbbd38419a38              605 main/binary-amd64/Packages
  b29d012d1136aed897d95385c99233b5              415 main/binary-amd64/Packages.gz
 SHA1:
- 727ba253ec13df9f9c61d56242d62b32d50a7140              194 Release
- c758e8c2d230c794513a53ded27c2fa273252f3e              554 main/binary-amd64/Packages
+ 823d89ba032327ff15028ca4100e6846018fe630              194 Release
+ 34fcbec0b1b782f4cae331ea6e1d8e1ba4e0099d              605 main/binary-amd64/Packages
  9744b4dab2a3816ca93686c5b190b4b3a4268e7d              415 main/binary-amd64/Packages.gz
 SHA256:
- f20896cab66fc981eff5c4a4ca1cb02bb945c039425108bd130e9cb96fffae7c              194 Release
- 496aea1d26d2551dad54b7f32a4430562a1ba466e64a6aed8b3dd866d0556036              554 main/binary-amd64/Packages
+ 6971753f7825adb782b8ced52ad18c5344b4242bc7cb9cd18bdc68633e7c9817              194 Release
+ 08a63fc2545dd105331a4ddd92d7feebc62f3616b586cf98b56d15655d042a87              605 main/binary-amd64/Packages
  0ba04b996ba1ff74e3153a45a1c13127746253cac71cfd7d666b4e317f1b42cf              415 main/binary-amd64/Packages.gz
 SHA512:
- e97de2256a6e833549365a1e96b55f28b9688aed2cba86df1c91ef2f28437acbfd667698472bb009f603faea4edc66a6538f598f7a480121e4369c983d432958              194 Release
- a8fab5172ddc2459683ef554c2e47578f1cad8530eb0b7d70a98227bc85c46914a03a8a70de86fcf0cf5803abc2b74b181bd37e1fb4da53a2f53b1d7115f8712              554 main/binary-amd64/Packages
+ 752136942b5500107c67ec9e792ec72440dcc62491bfffae9d1427e5a748dec29416466f92fccb50790d5a6766de34f6df134bd8178407c55097b0e55ffe6011              194 Release
+ 507697b833fc80691b83dbbc39044665faddcbb4a23c81d2fb2b240dd631ff215237978c0b3ec7fc53d6f51f64c8b5921cd80e08bcadcbc14bde8b786ef90849              605 main/binary-amd64/Packages
  d756bc5228fef29af0c946651c4a9c1fe2b5a77abaed9b6dfdbf51a80db64b60f188ffff70dcf92b7001fb9fc0c2bfc56366c06523d90d238a1e3bd3f293b407              415 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEECKNtyL1dFY8tYErxw7MhGTeQkbcFAmlJdpkACgkQw7MhGTeQ
-kbe3aw//aWkYT5vHSu2GmloA0tL+GJXYl2DRLjRfRL2lFa9pRDZfRINeVazdgk0A
-QLOsNX4vIbU9X+NSrQMvqa931+GTo+IWTWevhT7UL3kSrNSMLrFJwCcif3IvnMlh
-D2Z+tni8rkvm8pTvBF3cy5/dQthIFnDhLNFHfdjo4eNEwShRf8R+a7wC8UcItTTE
-DCEV73PD/AIXp8tU0xEdBqi+GIcdgkaTT6u1S1IVViVrbrMFpNtAT2PvyTPXgfYM
-zV+WPkLUDR5bTyPOv1cTOmn3aATpoWpA/SDtTgiEoZ1r4XURFqoDS+1AfWIulvGN
-YETkRk0hR4tbHX6301O0r5iU5OMqhGpqTWb6DxfQSp33Kw3K/T9b0o/ItQmaiitq
-HF2E5FqGAGDlMBnGhv7zb2ljmZgCZTaGn1WSj5661quJtMAC8NxbpJLcp9pt+5nC
-dmf89LGe9bR3W8yM+s96xA8eiQKz3SeqB5CnlIYH5mfOvVNHOQWXbi8C6U24CyWS
-RKv5yr61GF/QY6t/TtR0REcEz0pNFN/EPhLvKdvtQwl8eDslCzKNv703KcBVBmeQ
-FuFTonlblZQ0UYmcyrUw/Zxxwx4ItUmKVXCoMMNHJe/iU8va/XvlDDdzEkB4+YvO
-6670DFBdYRVhGR0VWxpy2Yv/A3pGrGkDzpCz9aLwiFwTuMctQHg=
-=ZyDh
+iQIzBAEBCgAdFiEECKNtyL1dFY8tYErxw7MhGTeQkbcFAmlKewQACgkQw7MhGTeQ
+kbfilxAAnmGqmbcy8mklN8mUr4fP8zbcEouCpsck41/0nX/QgHE34BQpBq7G0ZwU
+6aXkSS9VqDjBP3EcucHzknCZd+/hg2KoQFW7ctvSATcE1U1V7tWxwFaD0OLjp5gw
+VXv4rvF86T/1wyq7PoI2jWVBBhf7gyHEN+EA5l4V0zzI9z1j2l6ODd9VBekEy4iy
+sepVbxK1oAabWtZEblf4eQNwzD/aRrYN1snVCCEvhlqOlX5HD9gjtaFtuqPHD3lL
+OhXxcSmgLz0J/pz9tfZv3F1m0bGExQ3OA17NtkEkwwjHIJIa8qwOytEWUFnb4Sq4
+W+bN0i2zy5a9uXZAXjofmHvYdN90XDmJIrkr+q//Kwu8HWmNZ1mjVBiN8k0j7XOz
+Q1vfA5/3aS6qnI+Kfn125q8wRMwGa7CIHtTZXBD+uH8toTV+FPaCEOD4Z2sSfZ7m
+jIOpvuE/fTA5bHOdsEW3zB2rGQacwIZecLxtVHWdRTn5n2PL8xRo8O8qCspz5b0P
+LaEumm8HwwWZqI9lX5Aggmdnyj7eudxoLOR9NavMlEiJqZUY7vTMVqULrAr+OpY+
+7ekEq29fMfqJTWb4xKmOPxAfMuqIKaZ1fQY1VcTN6S0F3PuEbpE0U8GpBetfcN2t
+7GailAGW5t99XZJ8llWdFfHTNI9Roq9+AkpyK3Tb4QRhZFBupC0=
+=xIwP
 -----END PGP SIGNATURE-----
