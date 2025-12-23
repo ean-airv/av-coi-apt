@@ -1,24 +1,17 @@
-Architectures: amd64
-Codename: stable
-Components: main
-Date: Tue, 23 Dec 2025 11:19:52 +0000
-Description: Airvantage APT repository for av-coi
-Label: Airvantage
-Origin: Airvantage
-Suite: stable
+Date: Tue, 23 Dec 2025 11:40:36 +0000
 MD5Sum:
- 37ffdf400c4e2f68e922605e3f4e922f              194 Release
+ ffae04584723a72b5069291a2b16334b               38 Release
  42b75b4bd5c3feaad043dbbd38419a38              605 main/binary-amd64/Packages
- b29d012d1136aed897d95385c99233b5              415 main/binary-amd64/Packages.gz
+ 9968890ed06dd682f50138ab4f1586d8              446 main/binary-amd64/Packages.gz
 SHA1:
- 823d89ba032327ff15028ca4100e6846018fe630              194 Release
+ b73d39431cc36c272f0b5f3e4a2b2563fbea39e8               38 Release
  34fcbec0b1b782f4cae331ea6e1d8e1ba4e0099d              605 main/binary-amd64/Packages
- 9744b4dab2a3816ca93686c5b190b4b3a4268e7d              415 main/binary-amd64/Packages.gz
+ 52a80c5849fe38d00e1b1d5c197f39ce25547030              446 main/binary-amd64/Packages.gz
 SHA256:
- 6971753f7825adb782b8ced52ad18c5344b4242bc7cb9cd18bdc68633e7c9817              194 Release
+ 43281b2aee631a20217ff8f729ae0613e5bdd41e5c3fc8035b1c1f57d53c068c               38 Release
  08a63fc2545dd105331a4ddd92d7feebc62f3616b586cf98b56d15655d042a87              605 main/binary-amd64/Packages
- 0ba04b996ba1ff74e3153a45a1c13127746253cac71cfd7d666b4e317f1b42cf              415 main/binary-amd64/Packages.gz
+ 31df990b60f4a825eb049f49754565814003f2c366812d18e8277b10addbfff6              446 main/binary-amd64/Packages.gz
 SHA512:
- 752136942b5500107c67ec9e792ec72440dcc62491bfffae9d1427e5a748dec29416466f92fccb50790d5a6766de34f6df134bd8178407c55097b0e55ffe6011              194 Release
+ 12e1c3258f63e585bab3ceb8e2ec7e3e2ca06c1a682104ed5e408c0abfaa7b93f0cb07aba82d17386256c2d97ac3494e8301083960030e13509b96897a505836               38 Release
  507697b833fc80691b83dbbc39044665faddcbb4a23c81d2fb2b240dd631ff215237978c0b3ec7fc53d6f51f64c8b5921cd80e08bcadcbc14bde8b786ef90849              605 main/binary-amd64/Packages
- d756bc5228fef29af0c946651c4a9c1fe2b5a77abaed9b6dfdbf51a80db64b60f188ffff70dcf92b7001fb9fc0c2bfc56366c06523d90d238a1e3bd3f293b407              415 main/binary-amd64/Packages.gz
+ d52a2abbfc84b963251fa0e829f960b1e04040fdc45e5095b8329e128ca5655dd53268a5dfc4174cc0980fce4470bcbae94c41b5d8ea8870a6d14a28b1f2afed              446 main/binary-amd64/Packages.gz
