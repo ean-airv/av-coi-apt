@@ -1,13 +1,13 @@
 Package: av-coi
-Version: 1.4
+Version: 1.5
 Architecture: amd64
 Maintainer: Airvantage <support@airvantage.co.za>
 Depends: bash, openfortivpn, zenity, iproute2, iputils-ping, network-manager
 Filename: pool/main/a/av-coi.deb
-Size: 5268
-MD5sum: 7436bb913566129d5251e4c08b2b01e7
-SHA1: 13e02f20d0044b9c034e9af279d8ab5610450ca5
-SHA256: 199d613c6a309054e1a3e5ecbf8c60fdc2a9a0bc9571595459dc0dc7103eda33
+Size: 5226
+MD5sum: f02ec7d51ce02a5e88aca7efef16db3c
+SHA1: 36a56582b07a28d567c8539b4aeb777fc72c59d5
+SHA256: fc7d3fe12cb49d145a7b962fb100c4783a96e28681707c7b9159ad506a725e27
 Section: net
 Priority: optional
 Homepage: https://github.com/ean-airv/av-coi-apt
